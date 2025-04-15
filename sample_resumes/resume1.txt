@@ -1,0 +1,1 @@
+John Doe is a Python developer with experience in pandas, NumPy, and machine learning. He built data dashboards with Streamlit and deployed models using Flask.
